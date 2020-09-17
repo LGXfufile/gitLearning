@@ -1,0 +1,6 @@
+
+<!--<?xml version = "1.0" encoding = "utf-8"?>-->
+<beans xmlns="http://www.springframework.org/schema/beans">
+    <!--让指定类配置给spring，让spring创建其对象实例；-->
+    <bean id = "userDao" class="com.ssm.ioc.userDaoImpl"/>
+</beans>

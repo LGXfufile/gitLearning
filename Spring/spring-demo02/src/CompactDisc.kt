@@ -1,0 +1,3 @@
+interface CompactDisc {
+    void play();
+}
